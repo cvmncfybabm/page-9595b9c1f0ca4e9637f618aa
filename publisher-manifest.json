@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "141a8a6cc05c255b6ced1fa2",
+  "owner": "cvmncfybabm",
+  "repo": "page-9595b9c1f0ca4e9637f618aa",
+  "title": "500Ml矿泉水瓶",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9595b9c1f0ca4e9637f618aa",
+      "a": "500Ml矿泉水瓶",
+      "b": "2027最新官网",
+      "entity": "500Ml矿泉水瓶",
+      "brand": "500Ml矿泉水瓶",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "af09cdde4c5b7386b1f1dc7e4a405842a869698e776a56b25d2ba1048575942c",
+      "content": {
+        "primary_entity": "500Ml矿泉水瓶",
+        "keyword1": "500Ml矿泉水瓶",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 与路由器固件各有对应版本。",
+          "AI_CLIENTS_TITLE": "按设备匹配客户端",
+          "AI_CLOSING_TEXT": "先选基础版试用一个月，确认线路稳定后再按年付切换旗舰版。",
+          "AI_CLOSING_TITLE": "从轻量套餐开始体验",
+          "AI_DESCRIPTION": "，为跨区访问场景提供多档订阅方案：基础版每月 100GB 流量、支持 3 台设备在线，适合单人或双设备日常使用；旗舰版每月 300GB 流量、支持 5 台设备，并配有 IPLC 专线节点与流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，适合小型工作室协同办公。按年付可节省两个月费用，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从流量规模、设备数量与订阅周期三个维度说明套餐差异。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 与旗舰版 300GB 适合个人月均用量，团队版 1000GB 覆盖小型团队共享需求。",
+          "AI_FEATURE_TITLE_1": "流量与场景匹配",
+          "AI_FEATURE_TEXT_2": "3 台、5 台与 20 台三档设备上限，手机、平板、电脑与路由器按需分配在线名额。",
+          "AI_FEATURE_TITLE_2": "设备数量选择",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，年付相当于用十个月价格获得十二个月服务，长期使用成本更低。",
+          "AI_FEATURE_TITLE_3": "月付与年付周期",
+          "AI_GUIDE_INTRO": "先确定主要使用设备与月流量，再对照套餐设备上限与线路配置，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "500Ml矿泉水瓶提供基础版、旗舰版与团队版三档海外加速订阅，覆盖 3 至 20 台设备在线场景。按年付可节省两个月费用，旗舰版配有 IPLC 专线与原生流媒体解锁节点。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备灵活匹配",
+          "AI_HIGHLIGHT_1": "基础版 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB，IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数量与流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "确认常用设备数量与每月大致流量，单人 1 至 2 台选基础版，多人多设备选旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "确定设备与流量",
+          "AI_STEP_TEXT_2": "查看所选套餐的在线设备上限、节点类型与流媒体支持范围，确认是否满足主要用途。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端按照订阅导入文档填写配置，完成后登录并确认节点可用。",
+          "AI_STEP_TITLE_3": "按客户端导入订阅",
+          "AI_VISUAL_TITLE": "500Ml矿泉水瓶多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。设备数量指同时在线连接数，超出后需等待其他设备下线。",
+          "AI_FAQ_ANSWER_2": "流量按自然月计算，基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。未用完流量不结转至下月。",
+          "AI_FAQ_ANSWER_3": "可以，年付方案比月付节省约两个月费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_4": "在客户端中复制订阅链接并导入，选择节点后开启代理即可。不同客户端操作略有差异，可参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，均适合对延迟敏感的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量计费与线路选择。",
+          "AI_FAQ_QUESTION_1": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量如何计算？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合看视频或玩游戏？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tpmlk.cn",
+    "host": "tpmlk.cn"
+  },
+  "file_hashes": {
+    "index.html": "e3dee3a355691eabcc141fcd6657e8ea33426b036d4e77982405678cb0f2f870",
+    "sitemap.xml": "c6b92af69b67bb6549a6b0beaba4b3ae88cadca6439588090618d59181cb153c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "981c66cfc0fa9d56fd603a2c76aeaf5e7ac63e1d67e59abbd63553a0ba782d4a",
+    "robots.txt": "be8fcb8cbef93dfb887739a82859167dd648892030f2fcc76be60d1c61fd60f3",
+    "7c69ee8097cc98b3c9210387ade0da89.txt": "19d4e15f340d12d01bbf2859d88de34f88f4a739866c00a9d17069c7d54a59e8"
+  },
+  "revision": "8bbf8982296f7d978ad1ba4a314cf6e66e330034a1a968b0e6790b0e88027641"
+}
